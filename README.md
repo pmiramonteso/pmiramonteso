@@ -1,6 +1,6 @@
 # 👋 Hola, soy Paola
 
-Soy Licenciada en Comunicación y desarrolladora web 🎓
+Soy Licenciada en Comunicación y Desarrolladora Web 🎓
 
 ## 💻 Tecnologías y Herramientas
 
