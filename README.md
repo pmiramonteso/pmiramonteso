@@ -8,7 +8,7 @@ Soy Licenciada en Comunicación y Desarrolladora Web 🎓
 - **Frameworks:** Angular, Bootstrap, Tailwind
 - **Herramientas:** Node.js, Figma, Git, Postman, VCode
 - **Base de datos:** MySQL
-- **Otros:** SASS, JSON Server
+- **Otros:** JSON Server
 
 ## 📫 ¿Cómo Contactarme?
 
