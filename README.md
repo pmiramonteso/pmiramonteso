@@ -12,7 +12,7 @@ Soy Licenciada en Comunicación y Desarrolladora Web 🎓
 
 ## 📫 ¿Cómo Contactarme?
 
-- 📧 Correo: (pmiramontes@gmail.com)
+- 📧 Correo: (pmiramonteso@gmail.com)
 - 🌐 LinkedIn:(https://www.linkedin.com/in/paola-miramontes/)
 
 ## 🤝 Contribuciones
